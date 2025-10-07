@@ -1,10 +1,9 @@
-import Profile from "./components/Profile"
+import BackgroundChanger from "./components/BackgroundChanger"
+
 
 function App() {
   return (
-    <>
-      <Profile />
-    </>
+    <BackgroundChanger />
   )
 }
 export default App
