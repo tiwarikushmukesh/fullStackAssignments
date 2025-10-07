@@ -1,9 +1,8 @@
-import BackgroundChanger from "./components/BackgroundChanger"
-
+import BirthdayWish from "./components/BirthdayWish";
 
 function App() {
   return (
-    <BackgroundChanger />
+    <BirthdayWish />
   )
 }
 export default App
